@@ -32,7 +32,7 @@ function Card2() {
 <h1>$9/month</h1>
 <hr />
 <div>
-  <p><FaCheck /> single User</p>
+  <p><FaCheck /> 5 Users</p>
   <p><FaCheck /> 50GB Storage</p>
   <p><FaCheck /> Unlimited Public Projects</p>
   <p><FaCheck /> Community Access</p>
@@ -55,7 +55,7 @@ function Card3() {
 <h1>$49/month</h1>
 <hr />
 <div>
-  <p><FaCheck /> single User</p>
+  <p><FaCheck /> Unlimited Users</p>
   <p><FaCheck /> 50GB Storage</p>
   <p><FaCheck /> Unlimited Public Projects</p>
   <p><FaCheck /> Community Access</p>
